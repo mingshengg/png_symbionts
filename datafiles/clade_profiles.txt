@@ -1,0 +1,414 @@
+SampleID	Species	Site	A	C	D	G
+KB_Diplo_1	Diploastrea heliopora	Kimbe Bay	0	0	20605	0
+KB_Diplo_10	Diploastrea heliopora	Kimbe Bay	0	0	59159	0
+KB_Diplo_11	Diploastrea heliopora	Kimbe Bay	0	0	63540	0
+KB_Diplo_12	Diploastrea heliopora	Kimbe Bay	0	0	22683	0
+KB_Diplo_13	Diploastrea heliopora	Kimbe Bay	0	0	38221	0
+KB_Diplo_14	Diploastrea heliopora	Kimbe Bay	0	0	40483	0
+KB_Diplo_15	Diploastrea heliopora	Kimbe Bay	0	0	28361	0
+KB_Diplo_16	Diploastrea heliopora	Kimbe Bay	0	0	44348	0
+KB_Diplo_17	Diploastrea heliopora	Kimbe Bay	0	0	29210	0
+KB_Diplo_18	Diploastrea heliopora	Kimbe Bay	0	0	32884	0
+KB_Diplo_19	Diploastrea heliopora	Kimbe Bay	0	0	45356	0
+KB_Diplo_2	Diploastrea heliopora	Kimbe Bay	0	0	45190	0
+KB_Diplo_20	Diploastrea heliopora	Kimbe Bay	0	0	22430	0
+KB_Diplo_3	Diploastrea heliopora	Kimbe Bay	0	0	51529	0
+KB_Diplo_4	Diploastrea heliopora	Kimbe Bay	0	0	29878	0
+KB_Diplo_5	Diploastrea heliopora	Kimbe Bay	0	0	36749	0
+KB_Diplo_6	Diploastrea heliopora	Kimbe Bay	0	0	21281	0
+KB_Diplo_7	Diploastrea heliopora	Kimbe Bay	0	1372	23434	0
+KB_Diplo_8	Diploastrea heliopora	Kimbe Bay	0	0	39849	0
+KB_Diplo_9	Diploastrea heliopora	Kimbe Bay	0	0	19009	0
+KB_Pachyseries_1	Pachyseris speciosa	Kimbe Bay	0	0	78329	0
+KB_Pachyseries_10	Pachyseris speciosa	Kimbe Bay	0	43917	15082	0
+KB_Pachyseries_12	Pachyseris speciosa	Kimbe Bay	0	263	49189	0
+KB_Pachyseries_13	Pachyseris speciosa	Kimbe Bay	0	0	76241	0
+KB_Pachyseries_14	Pachyseris speciosa	Kimbe Bay	0	15692	79891	0
+KB_Pachyseries_15	Pachyseris speciosa	Kimbe Bay	0	172	77354	0
+KB_Pachyseries_16	Pachyseris speciosa	Kimbe Bay	0	2637	147458	0
+KB_Pachyseries_17	Pachyseris speciosa	Kimbe Bay	0	0	65609	0
+KB_Pachyseries_18	Pachyseris speciosa	Kimbe Bay	0	0	41366	0
+KB_Pachyseries_19	Pachyseris speciosa	Kimbe Bay	0	0	53328	0
+KB_Pachyseries_2	Pachyseris speciosa	Kimbe Bay	0	215	63266	0
+KB_Pachyseries_20	Pachyseris speciosa	Kimbe Bay	0	0	63980	0
+KB_Pachyseries_3	Pachyseris speciosa	Kimbe Bay	0	0	55963	0
+KB_Pachyseries_4	Pachyseris speciosa	Kimbe Bay	0	69534	803	0
+KB_Pachyseries_6	Pachyseris speciosa	Kimbe Bay	0	92633	2125	0
+KB_Pachyseries_7	Pachyseris speciosa	Kimbe Bay	0	495	25093	0
+KB_Pachyseries_8	Pachyseris speciosa	Kimbe Bay	0	0	140346	0
+KB_Pachyseries_9	Pachyseris speciosa	Kimbe Bay	0	324	74771	0
+KB_Pacuta_1	Pocillopora acuta	Kimbe Bay	0	4979	52729	0
+KB_Pacuta_10	Pocillopora acuta	Kimbe Bay	0	857	40255	0
+KB_Pacuta_11	Pocillopora acuta	Kimbe Bay	0	2236	42889	0
+KB_Pacuta_12	Pocillopora acuta	Kimbe Bay	0	10872	23133	0
+KB_Pacuta_13	Pocillopora acuta	Kimbe Bay	0	244	30648	0
+KB_Pacuta_14	Pocillopora acuta	Kimbe Bay	0	1988	47934	0
+KB_Pacuta_15	Pocillopora acuta	Kimbe Bay	0	2266	41429	0
+KB_Pacuta_16	Pocillopora acuta	Kimbe Bay	0	3458	6938	0
+KB_Pacuta_17	Pocillopora acuta	Kimbe Bay	0	12153	22061	0
+KB_Pacuta_18	Pocillopora acuta	Kimbe Bay	0	1994	30443	0
+KB_Pacuta_19	Pocillopora acuta	Kimbe Bay	0	2454	51269	0
+KB_Pacuta_20	Pocillopora acuta	Kimbe Bay	0	4144	60060	0
+KB_Pacuta_3	Pocillopora acuta	Kimbe Bay	0	2171	52211	0
+KB_Pacuta_4	Pocillopora acuta	Kimbe Bay	0	706	81150	0
+KB_Pacuta_5	Pocillopora acuta	Kimbe Bay	0	1691	13147	0
+KB_Pacuta_6	Pocillopora acuta	Kimbe Bay	0	2812	22973	0
+KB_Pacuta_7	Pocillopora acuta	Kimbe Bay	0	2151	52927	0
+KB_Pacuta_9	Pocillopora acuta	Kimbe Bay	0	14411	26272	0
+KB_Plutea_10	Porites lutea	Kimbe Bay	0	13686	0	0
+KB_Plutea_11	Porites lutea	Kimbe Bay	0	19831	0	0
+KB_Plutea_12	Porites lutea	Kimbe Bay	0	10531	0	0
+KB_Plutea_13	Porites lutea	Kimbe Bay	0	22524	0	0
+KB_Plutea_14	Porites lutea	Kimbe Bay	0	25910	444	0
+KB_Plutea_15	Porites lutea	Kimbe Bay	0	23058	0	0
+KB_Plutea_19	Porites lutea	Kimbe Bay	0	10943	0	0
+KB_Plutea_2	Porites lutea	Kimbe Bay	0	15895	0	0
+KB_Plutea_20	Porites lutea	Kimbe Bay	0	20337	0	0
+KB_Plutea_3	Porites lutea	Kimbe Bay	0	16735	0	0
+KB_Plutea_5	Porites lutea	Kimbe Bay	0	14815	0	0
+KB_Plutea_6	Porites lutea	Kimbe Bay	0	19515	0	0
+KB_Plutea_7	Porites lutea	Kimbe Bay	0	19290	0	0
+KB_Plutea_8	Porites lutea	Kimbe Bay	0	23692	0	0
+KV_Diplo_1	Diploastrea heliopora	Kavieng	0	0	11404	0
+KV_Diplo_10	Diploastrea heliopora	Kavieng	0	0	33973	0
+KV_Diplo_11	Diploastrea heliopora	Kavieng	0	0	38382	0
+KV_Diplo_12	Diploastrea heliopora	Kavieng	0	0	23825	0
+KV_Diplo_13	Diploastrea heliopora	Kavieng	0	0	30524	0
+KV_Diplo_14	Diploastrea heliopora	Kavieng	0	0	23131	0
+KV_Diplo_15	Diploastrea heliopora	Kavieng	0	0	38731	0
+KV_Diplo_16	Diploastrea heliopora	Kavieng	0	0	36195	0
+KV_Diplo_17	Diploastrea heliopora	Kavieng	0	0	20937	0
+KV_Diplo_18	Diploastrea heliopora	Kavieng	0	0	76651	0
+KV_Diplo_19	Diploastrea heliopora	Kavieng	0	0	27246	0
+KV_Diplo_2	Diploastrea heliopora	Kavieng	0	0	69391	0
+KV_Diplo_20	Diploastrea heliopora	Kavieng	0	4176	21399	0
+KV_Diplo_3	Diploastrea heliopora	Kavieng	0	0	64785	0
+KV_Diplo_4	Diploastrea heliopora	Kavieng	0	0	13708	0
+KV_Diplo_5	Diploastrea heliopora	Kavieng	0	0	73771	0
+KV_Diplo_6	Diploastrea heliopora	Kavieng	0	0	58377	0
+KV_Diplo_7	Diploastrea heliopora	Kavieng	0	0	51673	0
+KV_Diplo_8	Diploastrea heliopora	Kavieng	0	0	19148	0
+KV_Diplo_9	Diploastrea heliopora	Kavieng	0	0	22654	0
+KV_Pachyseries_10	Pachyseris speciosa	Kavieng	0	51089	17086	0
+KV_Pachyseries_11	Pachyseris speciosa	Kavieng	0	0	74565	0
+KV_Pachyseries_12	Pachyseris speciosa	Kavieng	0	36568	16336	0
+KV_Pachyseries_13	Pachyseris speciosa	Kavieng	0	33619	77679	0
+KV_Pachyseries_14	Pachyseris speciosa	Kavieng	0	29972	52192	0
+KV_Pachyseries_15	Pachyseris speciosa	Kavieng	0	44725	491	0
+KV_Pachyseries_16	Pachyseris speciosa	Kavieng	0	0	66041	0
+KV_Pachyseries_19	Pachyseris speciosa	Kavieng	0	0	109941	0
+KV_Pachyseries_20	Pachyseris speciosa	Kavieng	0	17549	59387	0
+KV_Pachyseries_3	Pachyseris speciosa	Kavieng	0	0	52338	0
+KV_Pachyseries_4	Pachyseris speciosa	Kavieng	0	0	41629	0
+KV_Pachyseries_5	Pachyseris speciosa	Kavieng	0	2124	42694	0
+KV_Pachyseries_7	Pachyseris speciosa	Kavieng	0	30091	24891	0
+KV_Pachyseries_8	Pachyseris speciosa	Kavieng	0	0	74581	0
+KV_Pachyseries_9	Pachyseris speciosa	Kavieng	0	0	57729	0
+KV_Pacuta_1	Pocillopora acuta	Kavieng	0	1965	24566	0
+KV_Pacuta_10	Pocillopora acuta	Kavieng	0	2209	24053	0
+KV_Pacuta_11	Pocillopora acuta	Kavieng	0	846	20855	0
+KV_Pacuta_12	Pocillopora acuta	Kavieng	0	750	28881	0
+KV_Pacuta_13	Pocillopora acuta	Kavieng	0	2261	59832	0
+KV_Pacuta_14	Pocillopora acuta	Kavieng	0	866	73802	0
+KV_Pacuta_15	Pocillopora acuta	Kavieng	0	8003	16144	0
+KV_Pacuta_16	Pocillopora acuta	Kavieng	0	14172	32217	0
+KV_Pacuta_17	Pocillopora acuta	Kavieng	0	1103	9101	0
+KV_Pacuta_18	Pocillopora acuta	Kavieng	0	0	24897	0
+KV_Pacuta_19	Pocillopora acuta	Kavieng	0	2647	36471	0
+KV_Pacuta_2	Pocillopora acuta	Kavieng	0	3427	57189	0
+KV_Pacuta_5	Pocillopora acuta	Kavieng	0	2146	62057	0
+KV_Pacuta_6	Pocillopora acuta	Kavieng	0	1515	79086	0
+KV_Pacuta_7	Pocillopora acuta	Kavieng	0	952	21685	0
+KV_Pacuta_9	Pocillopora acuta	Kavieng	0	652	20062	0
+KV_Plutea_10	Porites lutea	Kavieng	0	21694	0	0
+KV_Plutea_11	Porites lutea	Kavieng	0	21460	0	97
+KV_Plutea_13	Porites lutea	Kavieng	0	17229	0	0
+KV_Plutea_14	Porites lutea	Kavieng	0	19580	830	0
+KV_Plutea_15	Porites lutea	Kavieng	0	18272	0	0
+KV_Plutea_16	Porites lutea	Kavieng	0	20959	0	0
+KV_Plutea_17	Porites lutea	Kavieng	0	12845	0	0
+KV_Plutea_18	Porites lutea	Kavieng	0	6380	0	0
+KV_Plutea_19	Porites lutea	Kavieng	0	15841	0	0
+KV_Plutea_2	Porites lutea	Kavieng	0	15789	0	0
+KV_Plutea_20	Porites lutea	Kavieng	0	7549	0	0
+KV_Plutea_3	Porites lutea	Kavieng	0	13361	1090	0
+KV_Plutea_4	Porites lutea	Kavieng	0	9735	0	0
+KV_Plutea_5	Porites lutea	Kavieng	0	17822	0	0
+KV_Plutea_6	Porites lutea	Kavieng	0	18888	0	0
+KV_Plutea_7	Porites lutea	Kavieng	0	16623	0	0
+KV_Plutea_8	Porites lutea	Kavieng	0	18383	0	0
+MA_Diplo_1	Diploastrea heliopora	Madang	0	0	46153	0
+MA_Diplo_10	Diploastrea heliopora	Madang	0	0	51136	0
+MA_Diplo_11	Diploastrea heliopora	Madang	0	0	51588	0
+MA_Diplo_12	Diploastrea heliopora	Madang	0	0	36541	0
+MA_Diplo_13	Diploastrea heliopora	Madang	0	0	53477	0
+MA_Diplo_14	Diploastrea heliopora	Madang	0	0	37386	0
+MA_Diplo_15	Diploastrea heliopora	Madang	0	16392	44384	0
+MA_Diplo_16	Diploastrea heliopora	Madang	0	0	45034	0
+MA_Diplo_17	Diploastrea heliopora	Madang	0	0	50677	0
+MA_Diplo_18	Diploastrea heliopora	Madang	0	0	32192	0
+MA_Diplo_19	Diploastrea heliopora	Madang	0	0	71042	0
+MA_Diplo_2	Diploastrea heliopora	Madang	0	0	50517	0
+MA_Diplo_20	Diploastrea heliopora	Madang	0	0	37071	0
+MA_Diplo_3	Diploastrea heliopora	Madang	0	2155	23177	0
+MA_Diplo_4	Diploastrea heliopora	Madang	0	0	46426	0
+MA_Diplo_5	Diploastrea heliopora	Madang	0	0	26323	0
+MA_Diplo_6	Diploastrea heliopora	Madang	0	0	21622	0
+MA_Diplo_7	Diploastrea heliopora	Madang	0	0	56381	0
+MA_Diplo_8	Diploastrea heliopora	Madang	0	5928	11105	0
+MA_Diplo_9	Diploastrea heliopora	Madang	0	0	48487	0
+MA_Pachyseries_1	Pachyseris speciosa	Madang	0	32762	855	0
+MA_Pachyseries_11	Pachyseris speciosa	Madang	0	6028	0	0
+MA_Pachyseries_12	Pachyseris speciosa	Madang	0	45277	2522	0
+MA_Pachyseries_13	Pachyseris speciosa	Madang	0	20217	0	0
+MA_Pachyseries_15	Pachyseris speciosa	Madang	0	35705	0	0
+MA_Pachyseries_16	Pachyseris speciosa	Madang	0	37740	0	0
+MA_Pachyseries_17	Pachyseris speciosa	Madang	0	43438	0	0
+MA_Pachyseries_18	Pachyseris speciosa	Madang	0	35683	539	0
+MA_Pachyseries_19	Pachyseris speciosa	Madang	0	40322	0	0
+MA_Pachyseries_2	Pachyseris speciosa	Madang	0	40546	0	0
+MA_Pachyseries_20	Pachyseris speciosa	Madang	0	20801	0	0
+MA_Pachyseries_3	Pachyseris speciosa	Madang	0	53827	0	0
+MA_Pachyseries_4	Pachyseris speciosa	Madang	0	33636	0	0
+MA_Pachyseries_5	Pachyseris speciosa	Madang	0	62087	211	0
+MA_Pachyseries_6	Pachyseris speciosa	Madang	0	20886	0	0
+MA_Pachyseries_7	Pachyseris speciosa	Madang	0	22781	0	0
+MA_Pachyseries_8	Pachyseris speciosa	Madang	0	12060	0	0
+MA_Pachyseries_9	Pachyseris speciosa	Madang	0	37526	0	3381
+MA_Pacuta_1	Pocillopora acuta	Madang	0	4786	7797	0
+MA_Pacuta_10	Pocillopora acuta	Madang	0	46376	845	0
+MA_Pacuta_11	Pocillopora acuta	Madang	0	21238	436	0
+MA_Pacuta_13	Pocillopora acuta	Madang	0	804	57906	0
+MA_Pacuta_14	Pocillopora acuta	Madang	0	50523	1474	0
+MA_Pacuta_15	Pocillopora acuta	Madang	0	44443	941	0
+MA_Pacuta_16	Pocillopora acuta	Madang	0	497	62814	0
+MA_Pacuta_18	Pocillopora acuta	Madang	0	30291	6568	0
+MA_Pacuta_19	Pocillopora acuta	Madang	0	11658	145752	0
+MA_Pacuta_2	Pocillopora acuta	Madang	0	1250	51834	0
+MA_Pacuta_20	Pocillopora acuta	Madang	0	4546	7144	0
+MA_Pacuta_3	Pocillopora acuta	Madang	0	8180	16743	0
+MA_Pacuta_4	Pocillopora acuta	Madang	0	1318	18990	0
+MA_Pacuta_5	Pocillopora acuta	Madang	0	3886	41361	0
+MA_Pacuta_6	Pocillopora acuta	Madang	0	42404	2033	0
+MA_Pacuta_7	Pocillopora acuta	Madang	0	6223	52788	0
+MA_Pacuta_8	Pocillopora acuta	Madang	0	2239	56764	0
+MA_Pacuta_9	Pocillopora acuta	Madang	0	0	13994	0
+MA_Plutea_1	Porites lutea	Madang	0	46151	0	0
+MA_Plutea_10	Porites lutea	Madang	0	187280	158	0
+MA_Plutea_12	Porites lutea	Madang	0	221953	517	0
+MA_Plutea_13	Porites lutea	Madang	0	65440	0	0
+MA_Plutea_14	Porites lutea	Madang	0	257310	637	0
+MA_Plutea_15	Porites lutea	Madang	0	237184	1251	0
+MA_Plutea_16	Porites lutea	Madang	0	60277	0	0
+MA_Plutea_17	Porites lutea	Madang	0	67198	251	0
+MA_Plutea_18	Porites lutea	Madang	0	239330	2865	0
+MA_Plutea_19	Porites lutea	Madang	0	212379	1291	0
+MA_Plutea_2	Porites lutea	Madang	0	68704	0	0
+MA_Plutea_20	Porites lutea	Madang	0	252818	2617	0
+MA_Plutea_3	Porites lutea	Madang	0	75420	536	0
+MA_Plutea_4	Porites lutea	Madang	0	65884	302	0
+MA_Plutea_5	Porites lutea	Madang	0	27110	0	0
+MA_Plutea_6	Porites lutea	Madang	0	152429	266	0
+MA_Plutea_7	Porites lutea	Madang	0	170874	250	0
+MA_Plutea_8	Porites lutea	Madang	0	44427	214	0
+MA_Plutea_9	Porites lutea	Madang	0	111684	505	0
+MI_Diplo_1	Diploastrea heliopora	Milne Bay	0	0	39085	0
+MI_Diplo_10	Diploastrea heliopora	Milne Bay	0	0	26137	0
+MI_Diplo_11	Diploastrea heliopora	Milne Bay	0	0	28369	0
+MI_Diplo_12	Diploastrea heliopora	Milne Bay	0	0	19196	0
+MI_Diplo_13	Diploastrea heliopora	Milne Bay	0	0	35264	0
+MI_Diplo_14	Diploastrea heliopora	Milne Bay	0	0	28601	0
+MI_Diplo_15	Diploastrea heliopora	Milne Bay	0	0	25781	0
+MI_Diplo_16	Diploastrea heliopora	Milne Bay	0	0	14097	0
+MI_Diplo_18	Diploastrea heliopora	Milne Bay	0	0	57144	0
+MI_Diplo_19	Diploastrea heliopora	Milne Bay	0	0	58498	0
+MI_Diplo_2	Diploastrea heliopora	Milne Bay	0	0	57567	0
+MI_Diplo_20	Diploastrea heliopora	Milne Bay	0	210	12446	0
+MI_Diplo_3	Diploastrea heliopora	Milne Bay	0	0	75096	0
+MI_Diplo_4	Diploastrea heliopora	Milne Bay	0	0	16834	0
+MI_Diplo_5	Diploastrea heliopora	Milne Bay	0	12816	51439	0
+MI_Diplo_6	Diploastrea heliopora	Milne Bay	0	0	34419	0
+MI_Diplo_7	Diploastrea heliopora	Milne Bay	0	0	29090	0
+MI_Diplo_8	Diploastrea heliopora	Milne Bay	0	1593	47931	0
+MI_Diplo_9	Diploastrea heliopora	Milne Bay	0	0	13169	0
+MI_Pachyseries_10	Pachyseris speciosa	Milne Bay	0	46990	0	0
+MI_Pachyseries_11	Pachyseris speciosa	Milne Bay	0	79096	0	0
+MI_Pachyseries_12	Pachyseris speciosa	Milne Bay	0	51574	0	0
+MI_Pachyseries_13	Pachyseris speciosa	Milne Bay	0	63749	0	0
+MI_Pachyseries_14	Pachyseris speciosa	Milne Bay	0	8762	0	0
+MI_Pachyseries_15	Pachyseris speciosa	Milne Bay	0	61200	0	0
+MI_Pachyseries_16	Pachyseris speciosa	Milne Bay	0	12194	363	0
+MI_Pachyseries_17	Pachyseris speciosa	Milne Bay	0	44287	447	0
+MI_Pachyseries_18	Pachyseris speciosa	Milne Bay	0	47657	0	0
+MI_Pachyseries_2	Pachyseris speciosa	Milne Bay	0	84600	0	0
+MI_Pachyseries_3	Pachyseris speciosa	Milne Bay	0	69145	0	0
+MI_Pachyseries_4	Pachyseris speciosa	Milne Bay	0	78503	0	0
+MI_Pachyseries_5	Pachyseris speciosa	Milne Bay	0	45201	1836	0
+MI_Pachyseries_6	Pachyseris speciosa	Milne Bay	0	33728	0	0
+MI_Pachyseries_7	Pachyseris speciosa	Milne Bay	0	44160	401	0
+MI_Pachyseries_8	Pachyseris speciosa	Milne Bay	0	74393	0	0
+MI_Pachyseries_9	Pachyseris speciosa	Milne Bay	0	14568	284	0
+MI_Pacuta_1	Pocillopora acuta	Milne Bay	0	0	24513	0
+MI_Pacuta_11	Pocillopora acuta	Milne Bay	0	17681	12927	0
+MI_Pacuta_12	Pocillopora acuta	Milne Bay	0	682	22986	0
+MI_Pacuta_13	Pocillopora acuta	Milne Bay	0	2070	46118	0
+MI_Pacuta_14	Pocillopora acuta	Milne Bay	0	2209	84490	0
+MI_Pacuta_15	Pocillopora acuta	Milne Bay	0	1798	40160	0
+MI_Pacuta_16	Pocillopora acuta	Milne Bay	0	17190	38633	0
+MI_Pacuta_18	Pocillopora acuta	Milne Bay	0	2210	81456	0
+MI_Pacuta_2	Pocillopora acuta	Milne Bay	0	2519	22331	0
+MI_Pacuta_20	Pocillopora acuta	Milne Bay	0	1336	34081	0
+MI_Pacuta_3	Pocillopora acuta	Milne Bay	0	1262	8879	0
+MI_Pacuta_4	Pocillopora acuta	Milne Bay	0	1455	27051	0
+MI_Pacuta_6	Pocillopora acuta	Milne Bay	0	11182	46368	0
+MI_Pacuta_7	Pocillopora acuta	Milne Bay	0	5212	93499	0
+MI_Pacuta_9	Pocillopora acuta	Milne Bay	0	1792	22686	0
+MI_Plutea_10	Porites lutea	Milne Bay	0	14650	0	0
+MI_Plutea_13	Porites lutea	Milne Bay	0	14452	0	0
+MI_Plutea_14	Porites lutea	Milne Bay	0	14456	0	0
+MI_Plutea_15	Porites lutea	Milne Bay	0	15143	0	0
+MI_Plutea_17	Porites lutea	Milne Bay	0	9462	0	0
+MI_Plutea_18	Porites lutea	Milne Bay	0	15990	0	0
+MI_Plutea_19	Porites lutea	Milne Bay	0	12756	0	0
+MI_Plutea_3	Porites lutea	Milne Bay	0	17420	0	0
+MI_Plutea_5	Porites lutea	Milne Bay	0	15428	286	0
+MI_Plutea_6	Porites lutea	Milne Bay	0	18642	0	0
+MI_Plutea_8	Porites lutea	Milne Bay	0	6914	885	0
+MO_Diplo_1	Diploastrea heliopora	Motupore Island	0	40045	237	0
+MO_Diplo_10	Diploastrea heliopora	Motupore Island	0	0	39302	856
+MO_Diplo_11	Diploastrea heliopora	Motupore Island	0	8480	15263	0
+MO_Diplo_12	Diploastrea heliopora	Motupore Island	0	0	24375	0
+MO_Diplo_13	Diploastrea heliopora	Motupore Island	0	0	55839	0
+MO_Diplo_14	Diploastrea heliopora	Motupore Island	0	0	36483	0
+MO_Diplo_15	Diploastrea heliopora	Motupore Island	0	0	73401	0
+MO_Diplo_16	Diploastrea heliopora	Motupore Island	0	0	14624	0
+MO_Diplo_17	Diploastrea heliopora	Motupore Island	0	0	35248	0
+MO_Diplo_18	Diploastrea heliopora	Motupore Island	0	0	39028	0
+MO_Diplo_19	Diploastrea heliopora	Motupore Island	0	0	35278	0
+MO_Diplo_2	Diploastrea heliopora	Motupore Island	0	0	52333	0
+MO_Diplo_20	Diploastrea heliopora	Motupore Island	0	0	36164	0
+MO_Diplo_3	Diploastrea heliopora	Motupore Island	0	0	32000	0
+MO_Diplo_4	Diploastrea heliopora	Motupore Island	0	0	34315	0
+MO_Diplo_5	Diploastrea heliopora	Motupore Island	0	0	31926	0
+MO_Diplo_6	Diploastrea heliopora	Motupore Island	0	0	31106	0
+MO_Diplo_7	Diploastrea heliopora	Motupore Island	0	0	39706	0
+MO_Diplo_8	Diploastrea heliopora	Motupore Island	0	0	14472	0
+MO_Diplo_9	Diploastrea heliopora	Motupore Island	0	0	41052	0
+MO_Pachyseries_1	Pachyseris speciosa	Motupore Island	0	11079	0	0
+MO_Pachyseries_10	Pachyseris speciosa	Motupore Island	0	45311	249	0
+MO_Pachyseries_11	Pachyseris speciosa	Motupore Island	0	54392	0	0
+MO_Pachyseries_12	Pachyseris speciosa	Motupore Island	0	49546	0	0
+MO_Pachyseries_13	Pachyseris speciosa	Motupore Island	0	41486	0	0
+MO_Pachyseries_14	Pachyseris speciosa	Motupore Island	0	65627	0	0
+MO_Pachyseries_15	Pachyseris speciosa	Motupore Island	0	65718	0	0
+MO_Pachyseries_16	Pachyseris speciosa	Motupore Island	0	71790	0	0
+MO_Pachyseries_17	Pachyseris speciosa	Motupore Island	0	73409	0	0
+MO_Pachyseries_18	Pachyseris speciosa	Motupore Island	0	66748	0	0
+MO_Pachyseries_19	Pachyseris speciosa	Motupore Island	0	59512	0	0
+MO_Pachyseries_2	Pachyseris speciosa	Motupore Island	0	68444	0	0
+MO_Pachyseries_20	Pachyseris speciosa	Motupore Island	0	50966	0	0
+MO_Pachyseries_3	Pachyseris speciosa	Motupore Island	0	92900	0	0
+MO_Pachyseries_4	Pachyseris speciosa	Motupore Island	0	106111	0	0
+MO_Pachyseries_5	Pachyseris speciosa	Motupore Island	0	38921	0	0
+MO_Pachyseries_7	Pachyseris speciosa	Motupore Island	0	52261	0	0
+MO_Pachyseries_8	Pachyseris speciosa	Motupore Island	0	41749	0	0
+MO_Pachyseries_9	Pachyseris speciosa	Motupore Island	0	44843	0	0
+MO_Pacuta_1	Pocillopora acuta	Motupore Island	0	7515	75051	0
+MO_Pacuta_10	Pocillopora acuta	Motupore Island	0	3838	34341	0
+MO_Pacuta_13	Pocillopora acuta	Motupore Island	0	7670	11034	0
+MO_Pacuta_14	Pocillopora acuta	Motupore Island	0	17830	27684	0
+MO_Pacuta_15	Pocillopora acuta	Motupore Island	0	17617	27918	0
+MO_Pacuta_16	Pocillopora acuta	Motupore Island	0	4423	7814	0
+MO_Pacuta_17	Pocillopora acuta	Motupore Island	0	2864	66102	0
+MO_Pacuta_18	Pocillopora acuta	Motupore Island	0	4764	60314	0
+MO_Pacuta_19	Pocillopora acuta	Motupore Island	0	12502	22227	0
+MO_Pacuta_2	Pocillopora acuta	Motupore Island	0	3436	85492	0
+MO_Pacuta_3	Pocillopora acuta	Motupore Island	0	4365	62048	0
+MO_Pacuta_4	Pocillopora acuta	Motupore Island	0	9840	125746	0
+MO_Pacuta_5	Pocillopora acuta	Motupore Island	0	4021	6244	0
+MO_Pacuta_6	Pocillopora acuta	Motupore Island	0	4610	42693	0
+MO_Pacuta_7	Pocillopora acuta	Motupore Island	0	25401	26229	0
+MO_Pacuta_9	Pocillopora acuta	Motupore Island	0	2838	11353	0
+MO_Plutea_1	Porites lutea	Motupore Island	0	21281	0	0
+MO_Plutea_10	Porites lutea	Motupore Island	0	15508	0	0
+MO_Plutea_12	Porites lutea	Motupore Island	0	17986	0	0
+MO_Plutea_14	Porites lutea	Motupore Island	0	14967	0	0
+MO_Plutea_17	Porites lutea	Motupore Island	0	17681	0	0
+MO_Plutea_18	Porites lutea	Motupore Island	0	19829	0	0
+MO_Plutea_19	Porites lutea	Motupore Island	0	13014	0	0
+MO_Plutea_2	Porites lutea	Motupore Island	0	16797	0	0
+MO_Plutea_20	Porites lutea	Motupore Island	0	22091	0	0
+MO_Plutea_3	Porites lutea	Motupore Island	0	15296	0	0
+MO_Plutea_4	Porites lutea	Motupore Island	0	21932	0	0
+MO_Plutea_6	Porites lutea	Motupore Island	0	16219	0	0
+MO_Plutea_7	Porites lutea	Motupore Island	0	17181	0	0
+RA_Diplo_1	Diploastrea heliopora	Rabaul	0	0	34107	0
+RA_Diplo_10	Diploastrea heliopora	Rabaul	0	0	33318	0
+RA_Diplo_12	Diploastrea heliopora	Rabaul	0	0	45610	0
+RA_Diplo_13	Diploastrea heliopora	Rabaul	0	0	43147	0
+RA_Diplo_14	Diploastrea heliopora	Rabaul	0	43596	66150	0
+RA_Diplo_15	Diploastrea heliopora	Rabaul	0	0	66034	0
+RA_Diplo_16	Diploastrea heliopora	Rabaul	0	0	41779	0
+RA_Diplo_17	Diploastrea heliopora	Rabaul	0	0	85091	0
+RA_Diplo_18	Diploastrea heliopora	Rabaul	0	0	41106	0
+RA_Diplo_19	Diploastrea heliopora	Rabaul	0	133	42773	0
+RA_Diplo_2	Diploastrea heliopora	Rabaul	0	0	45250	0
+RA_Diplo_20	Diploastrea heliopora	Rabaul	0	0	43385	0
+RA_Diplo_3	Diploastrea heliopora	Rabaul	0	0	49383	0
+RA_Diplo_4	Diploastrea heliopora	Rabaul	0	0	34023	0
+RA_Diplo_6	Diploastrea heliopora	Rabaul	0	0	36593	0
+RA_Diplo_7	Diploastrea heliopora	Rabaul	0	0	35932	0
+RA_Diplo_8	Diploastrea heliopora	Rabaul	0	0	51594	0
+RA_Diplo_9	Diploastrea heliopora	Rabaul	0	0	27580	0
+RA_Pachyseries_1	Pachyseris speciosa	Rabaul	0	66168	0	0
+RA_Pachyseries_10	Pachyseris speciosa	Rabaul	0	49060	3142	0
+RA_Pachyseries_11	Pachyseris speciosa	Rabaul	0	45879	0	0
+RA_Pachyseries_12	Pachyseris speciosa	Rabaul	0	81978	265	0
+RA_Pachyseries_13	Pachyseris speciosa	Rabaul	0	48175	0	0
+RA_Pachyseries_14	Pachyseris speciosa	Rabaul	0	52863	0	0
+RA_Pachyseries_15	Pachyseris speciosa	Rabaul	0	176528	0	0
+RA_Pachyseries_16	Pachyseris speciosa	Rabaul	0	45004	212	0
+RA_Pachyseries_17	Pachyseris speciosa	Rabaul	0	48881	0	0
+RA_Pachyseries_18	Pachyseris speciosa	Rabaul	0	43960	0	0
+RA_Pachyseries_19	Pachyseris speciosa	Rabaul	0	62644	22251	0
+RA_Pachyseries_2	Pachyseris speciosa	Rabaul	0	52839	0	0
+RA_Pachyseries_20	Pachyseris speciosa	Rabaul	0	74577	0	0
+RA_Pachyseries_3	Pachyseris speciosa	Rabaul	0	49547	0	0
+RA_Pachyseries_4	Pachyseris speciosa	Rabaul	0	32027	28171	0
+RA_Pachyseries_5	Pachyseris speciosa	Rabaul	0	25807	28727	0
+RA_Pachyseries_6	Pachyseris speciosa	Rabaul	0	82667	14597	0
+RA_Pachyseries_7	Pachyseris speciosa	Rabaul	0	56573	17078	0
+RA_Pachyseries_8	Pachyseris speciosa	Rabaul	0	36857	0	0
+RA_Pacuta_1	Pocillopora acuta	Rabaul	0	4948	50474	0
+RA_Pacuta_10	Pocillopora acuta	Rabaul	0	9503	29039	0
+RA_Pacuta_11	Pocillopora acuta	Rabaul	0	1968	35709	0
+RA_Pacuta_12	Pocillopora acuta	Rabaul	0	2600	29889	0
+RA_Pacuta_13	Pocillopora acuta	Rabaul	0	1504	23552	0
+RA_Pacuta_15	Pocillopora acuta	Rabaul	0	5431	12954	0
+RA_Pacuta_16	Pocillopora acuta	Rabaul	0	830	31173	0
+RA_Pacuta_17	Pocillopora acuta	Rabaul	0	4087	55511	0
+RA_Pacuta_19	Pocillopora acuta	Rabaul	0	1468	44337	0
+RA_Pacuta_2	Pocillopora acuta	Rabaul	0	3914	64097	0
+RA_Pacuta_20	Pocillopora acuta	Rabaul	0	2906	53427	0
+RA_Pacuta_3	Pocillopora acuta	Rabaul	0	2614	27917	0
+RA_Pacuta_5	Pocillopora acuta	Rabaul	0	1009	20049	0
+RA_Pacuta_6	Pocillopora acuta	Rabaul	0	1830	42722	0
+RA_Pacuta_8	Pocillopora acuta	Rabaul	0	607	48971	0
+RA_Pacuta_9	Pocillopora acuta	Rabaul	0	2122	41381	0
+RA_Plutea_1	Porites lutea	Rabaul	0	13646	0	0
+RA_Plutea_10	Porites lutea	Rabaul	0	15541	0	0
+RA_Plutea_11	Porites lutea	Rabaul	0	12894	0	0
+RA_Plutea_12	Porites lutea	Rabaul	344	21470	0	0
+RA_Plutea_14	Porites lutea	Rabaul	0	14586	0	0
+RA_Plutea_15	Porites lutea	Rabaul	0	15665	0	0
+RA_Plutea_16	Porites lutea	Rabaul	0	9475	0	0
+RA_Plutea_17	Porites lutea	Rabaul	0	14944	0	0
+RA_Plutea_18	Porites lutea	Rabaul	0	15505	194	0
+RA_Plutea_19	Porites lutea	Rabaul	0	17277	0	0
+RA_Plutea_2	Porites lutea	Rabaul	0	11132	2577	0
+RA_Plutea_20	Porites lutea	Rabaul	0	19041	0	0
+RA_Plutea_3	Porites lutea	Rabaul	0	17299	0	0
+RA_Plutea_4	Porites lutea	Rabaul	0	23786	0	0
+RA_Plutea_6	Porites lutea	Rabaul	0	11214	0	0
+RA_Plutea_7	Porites lutea	Rabaul	0	12547	0	0
+RA_Plutea_9	Porites lutea	Rabaul	0	12795	0	0
