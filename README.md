@@ -1,6 +1,6 @@
 # png_symbionts
 
-## Analysis of Symbiodiniaceae (generated from SymPortal) types and type profiles from four coral species across six sites of Papua New Guinea
+## Analysis of Symbiodiniaceae types and type profiles (generated from SymPortal) from four coral species across six sites of Papua New Guinea
 
 ### Coral species: Diploastrea heliopora, Pachyseris speciosa, Porites lutea, and Pocillopora acuta
 
