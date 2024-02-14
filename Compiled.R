@@ -217,7 +217,7 @@ diplo_pca <- prcomp(diplo_ait, center = T)
 biplot(diplo_pca, )
 summary(diplo_pca)
 
-diplo_envfit <- envfit(diplo_pca ~ BO_calcite + BO_cloudmean + BO21_salinitymean_ss + BO21_chlomean_ss + BO21_curvelmean_ss, data=diplo_meta,perm=999)
+diplo_envfit <- envfit(diplo_pca ~ BO_parmean + BO_ph + BO21_tempmean_ss + BO21_salinitymean_ss, data=diplo_meta,perm=999)
 
 diplo.scores <- as.data.frame(scores(diplo_envfit, display = 'vectors'))
 diplo.scores <- cbind(diplo.scores, Env = rownames(diplo.scores))
@@ -240,7 +240,7 @@ fig5b_diplo <- ggplot(diplo_x) +
   xlab('PC1 (70.1%)') + ylab('PC2 (9.98%)') + ggtitle('Diploastrea heliopora') 
 
 
-diplo_permanova_env <- adonis2(as.dist(diplo_ait) ~ BO_calcite + BO_cloudmean + BO21_salinitymean_ss + BO21_chlomean_ss + BO21_curvelmean_ss, data = diplo_meta)
+diplo_permanova_env <- adonis2(as.dist(diplo_ait) ~ BO_parmean + BO_ph + BO21_tempmean_ss + BO21_salinitymean_ss, data = diplo_meta)
 diplo_permanova_env
 
 diplo_betadisper <- betadisper(diplo_ait, group = diplo_meta$collection_island)
@@ -273,7 +273,7 @@ plutea_pca <- prcomp(plutea_ait, center = T)
 biplot(plutea_pca)
 summary(plutea_pca)
 
-plutea_envfit <- envfit(plutea_pca ~ BO_cloudmean + BO21_chlomean_ss, data=plutea_meta,perm=999)
+plutea_envfit <- envfit(plutea_pca ~ BO_parmean + BO_ph + BO21_tempmean_ss + BO21_salinitymean_ss, data=plutea_meta,perm=999)
 
 plutea.scores <- as.data.frame(scores(plutea_envfit, display = 'vectors'))
 plutea.scores <- cbind(plutea.scores, Env = rownames(plutea.scores))
@@ -296,7 +296,7 @@ fig5b_plutea <- ggplot(plutea_x) +
   xlab('PC1 (87.8%)') + ylab('PC2 (1.85%)') + ggtitle('Porites lutea')
 
 
-plutea_permanova_env <- adonis2(as.dist(plutea_ait) ~ BO_calcite + BO_cloudmean + BO21_salinitymean_ss + BO21_chlomean_ss + BO21_curvelmean_ss, data = plutea_meta)
+plutea_permanova_env <- adonis2(as.dist(plutea_ait) ~ BO_parmean + BO_ph + BO21_tempmean_ss + BO21_salinitymean_ss, data = plutea_meta)
 plutea_permanova_env
 
 plutea_betadisper <- betadisper(plutea_ait, group = plutea_meta$collection_island)
@@ -327,7 +327,7 @@ pacuta_ait <- vegdist(pacuta_otu, 'robust.aitchison')
 pacuta_pca <- prcomp(pacuta_ait, center = T) #transformed to aitchison so no need to scale
 summary(pacuta_pca)
 
-pacuta_envfit <- envfit(pacuta_pca ~ BO_calcite + BO_cloudmean + BO21_salinitymean_ss + BO21_chlomean_ss + BO21_curvelmean_ss, data=pacuta_meta,perm=999)
+pacuta_envfit <- envfit(pacuta_pca ~ BO_parmean + BO_ph + BO21_tempmean_ss + BO21_salinitymean_ss, data=pacuta_meta,perm=999)
 
 ordiplot(pacuta_pca)
 plot(pacuta_envfit)
@@ -353,7 +353,7 @@ fig5b_pacuta <- ggplot(pacuta_x) +
   xlab('PC1 (61.8%)') + ylab('PC2 (14.0%)') + ggtitle('Pocillopora acuta')
 
 
-pacuta_permanova_env <- adonis2(as.dist(pacuta_ait) ~ BO_calcite + BO_cloudmean + BO21_salinitymean_ss + BO21_chlomean_ss + BO21_curvelmean_ss, data = pacuta_meta)
+pacuta_permanova_env <- adonis2(as.dist(pacuta_ait) ~ BO_parmean + BO_ph + BO21_tempmean_ss + BO21_salinitymean_ss, data = pacuta_meta)
 pacuta_permanova_env
 
 pacuta_betadisper <- betadisper(pacuta_ait, group = pacuta_meta$collection_island)
@@ -383,7 +383,7 @@ pachy_ait <- vegdist(pachy_otu, 'robust.aitchison')
 pachy_pca <- prcomp(pachy_ait, center = T) #transformed to aitchison so no need to scale
 summary(pachy_pca)
 
-pachy_envfit <- envfit(pachy_pca ~ BO_calcite + BO_cloudmean + BO21_salinitymean_ss + BO21_chlomean_ss + BO21_curvelmean_ss, data=pachy_meta,perm=999)
+pachy_envfit <- envfit(pachy_pca ~ BO_parmean + BO_ph + BO21_tempmean_ss + BO21_salinitymean_ss, data=pachy_meta,perm=999)
 
 ordiplot(pachy_pca)
 plot(pachy_envfit)
@@ -397,7 +397,7 @@ en_coord_cat = as.data.frame(scores(pachy_envfit, 'factors')) * ordiArrowMul(pac
 pachy_x <- pachy_pca$x %>% as.data.frame() %>% select('PC1','PC2')
 pachy_x$site <- pachy_meta$collection_island
 
-pachy_pcaplot <- ggplot(pachy_x) +
+fig5b_pachy <- ggplot(pachy_x) +
   geom_point(aes(x = PC1, y = PC2, colour = site)) +
   stat_ellipse(aes(x = PC1, y = PC2, colour = site)) +
   geom_segment(aes(x = 0, y = 0, xend = PC1, yend = PC2), 
@@ -410,7 +410,7 @@ pachy_pcaplot <- ggplot(pachy_x) +
 
 pachy_pcaplot
 
-pachy_permanova_env <- adonis2(as.dist(pachy_ait) ~ BO_calcite + BO_cloudmean + BO21_salinitymean_ss + BO21_chlomean_ss + BO21_curvelmean_ss, data = pachy_meta)
+pachy_permanova_env <- adonis2(as.dist(pachy_ait) ~ BO_parmean + BO_ph + BO21_tempmean_ss + BO21_salinitymean_ss, data = pachy_meta)
 pachy_permanova_env
 
 pachy_betadisper <- betadisper(pachy_ait, group = pachy_meta$collection_island)
