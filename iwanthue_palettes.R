@@ -1,3 +1,4 @@
+# palettes are generated from https://medialab.github.io/iwanthue/
 version1 <- c("#9b0045",
              "#ff6b91",
              "#d11b58",
